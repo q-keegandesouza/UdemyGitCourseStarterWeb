@@ -1,1 +1,6 @@
-ignoreThisFile.txt
+#Ignore this file
+ignoreThisFile.txt 
+#Regular expression must end in .log
+*.log 
+#Ignore all files in this directory
+/log  
