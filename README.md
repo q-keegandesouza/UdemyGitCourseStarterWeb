@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ##Deployment
 
-Section for deployment
+Lets fill in this description text with information
 
 ##Lets Modify this file more
 More description
