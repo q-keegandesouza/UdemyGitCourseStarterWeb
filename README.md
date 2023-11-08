@@ -17,3 +17,5 @@ More description
 What now
 
 They keep telling me to modify this
+
+##COPY RIGHT NOTICE
